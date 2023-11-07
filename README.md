@@ -2,15 +2,13 @@
 
 ### 模型训练
 
-yolov3模型训练在dl文件夹内，具体训练过程可通过下述链接查看。
-
-https://github.com/tankWang1024/yolov3-pytorch-paper
+yolov3模型训练在dl文件夹内
 
 ### 前端微信小程序代码
 
 微信小程序的前端代码。
 
-https://github.com/tankWang1024/iechemistry-wechat
+
 
 ### 后端代码
 
@@ -32,9 +30,4 @@ NVIDIA环境：cuda 10.2 CUDNN 8   开发硬件：GTX1050Ti 4GB
 
 config.py中设置数据库地址
 
-## 智能化学平台 子模块
-
-- 荧光分析
-- 图像、数据的预处理
-- 历史实验数据统计、分析
-- 多种机器学习回归方法
+## Artificial-Intelligence-Assay
